@@ -1,5 +1,6 @@
 node_crash_course/node_modules/
 jwt/auth/node_modules/
 chat/chatcord/node_modules/
+RealTimeChat/node_modules
 .DS_Store
 .vscode/
